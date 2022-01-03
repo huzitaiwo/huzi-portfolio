@@ -1,7 +1,10 @@
-.vscode
 404.html
 contact.html
 huffle.html
 interior.html
 morph.html
 /styles/light.css
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
